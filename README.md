@@ -111,7 +111,7 @@ Then open:
 - `feedback`
 - `contact_messages`
 
-## Notes for Teammates
+## Notes
 
 - Cart and login state are stored in PHP sessions.
 - Product stock is validated during cart updates and again before final order creation.
